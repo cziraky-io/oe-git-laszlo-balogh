@@ -15,3 +15,7 @@ a, git fork
 b, git status
 c, git spoon
 d, git clone
+
+A "DevOps" és a "DevOps Engineer" szinonimák.
+a, Igaz
+b, Hamis
